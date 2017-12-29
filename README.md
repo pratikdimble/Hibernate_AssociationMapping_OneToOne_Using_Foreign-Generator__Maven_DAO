@@ -1,0 +1,1 @@
+# Hibernate_AssociationMapping_OneToOne_Using_Foreign-Generator__Maven_DAO
